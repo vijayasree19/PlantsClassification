@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PlantsClassification</string>
+    <string name="welcome">WELCOME!</string>
+    <string name="action_pic">pick an Image</string>
+    <string name="plant_detection">Plant Detection</string>
+    <string name="new_here_create_account">New Here ? Create Account</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login_here">Already Registered ? Login Here</string>
+    <string name="password">Password</string>
+    <string name="upload_an_image">Upload an Image</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
