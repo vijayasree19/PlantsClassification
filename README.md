@@ -5,7 +5,7 @@
 2.Identification of plant by capturing or uploading image
 3.Location of plant
 
-#Github link of the project [here]  (https://github.com/manojdvs7/ThemeBasedProject)
+#Github link of the project [here]  (https://github.com/vijayasree19/PlantsClassification)
 
 #How to build the application:
 
